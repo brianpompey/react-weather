@@ -5,8 +5,8 @@ const api = {
 
 function App() {
   return (
-    <div className="App">
-      HEllo
+    <div className="app">
+      <main></main>
     </div>
   );
 }
