@@ -6,7 +6,11 @@ const api = {
 function App() {
   return (
     <div className="app">
-      <main></main>
+      <main>
+        <div className="search-box">
+          
+        </div>
+      </main>
     </div>
   );
 }
